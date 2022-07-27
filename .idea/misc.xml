@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.138" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_addstd.xml" value="0.22" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_del_notice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_delete_notice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_feedbackshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_rateshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_regist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_reservationshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_upload_notice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/activity_uploadnotice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/feed.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/newsfeed_item_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/T-USER/AndroidStudioProjects/AlAreenAdmin/app/src/main/res/layout/rate.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

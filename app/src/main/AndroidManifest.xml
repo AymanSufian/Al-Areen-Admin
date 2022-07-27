@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.al_areenadmin">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/areen_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/areen_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AlAreenAdmin">
+        <activity
+            android:name=".feedbackshow"
+            android:exported="false" />
+        <activity
+            android:name=".rateshow"
+            android:exported="false" />
+        <activity
+            android:name=".reservationshow"
+            android:exported="false" />
+        <activity
+            android:name=".Regist"
+            android:exported="false" />
+        <activity
+            android:name=".Del_Notice"
+            android:exported="false" />
+        <activity
+            android:name=".Upload_Notice"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
